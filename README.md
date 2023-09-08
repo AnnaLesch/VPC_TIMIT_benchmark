@@ -10,4 +10,5 @@ One dataset consists of ten utterance pairs per speaker, i.e. five same and five
 
 
 [1] https://github.com/Voice-Privacy-Challenge
+
 [2] Toussaint, W., Gorce, L., & Ding, A. Y. (2022). Design Guidelines for Inclusive Speaker Verification Evaluation Datasets. In Proceedings of the Annual Conference of the International Speech Communication Association, INTERSPEECH (Vol. 2022).
