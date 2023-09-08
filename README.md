@@ -1,6 +1,7 @@
 # Bias Evaluation Benchmark Dataset based on TIMIT
 
-This repository contains two benchmark dataset variations for bias evaluation of the Vocie Privacy Challenge. 
+This repository contains two benchmark dataset variations for bias evaluation, originally created to evaluate bias in the Voice Privacy Challenge baseline systems. 
+The datasets can be useful for evaluating bias jointly for Automatic Speech Recognition (ASR) and Automatic Speaker Verification (ASV) systems. 
 
 The benchmark datasets are based on TIMIT and were created using the algorithm proposed in [1].
 
