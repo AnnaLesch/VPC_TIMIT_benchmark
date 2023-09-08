@@ -6,7 +6,7 @@ The datasets can be useful for evaluating bias jointly for Automatic Speech Reco
 The benchmark datasets are based on TIMIT and were created using the algorithm proposed in [2].
 
 Ten male and ten female speakers from each dialect were selected to ensure subgroup balance resulting in a total of 160 speakers.
-One dataset consists of ten utterance pairs per speaker, i.e. five same and five different speaker pairs, resulting in 800 same speaker and 800 different speaker trials. 
+One dataset consists of ten utterance pairs per speaker, i.e. five same and five different speaker pairs, resulting in 800 same speaker and 800 different speaker trials. The dataset variations were created using different random seeds. 
 
 
 [1] https://github.com/Voice-Privacy-Challenge
